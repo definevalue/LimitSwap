@@ -11,7 +11,7 @@ cytoolz==0.11.2
 eth-abi==2.1.1
 eth-account==0.5.6
 eth-hash==0.3.2
-eth-keyfile==0.5.1
+eth-keyfile==0.6.0
 eth-keys==0.3.3
 eth-rlp==0.2.1
 eth-typing==2.2.2
@@ -39,5 +39,5 @@ typing-extensions==4.0.0
 urllib3==1.26.7
 varint==1.0.2
 web3==5.24.0
-websockets==9.1
+websockets==10.0
 yarl==1.7.2
